@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
     <body>
-
     <h1>WELCOME</h1>
-
     <p>I'm Prestige77</p>
-
     </body>
 </html>
 
